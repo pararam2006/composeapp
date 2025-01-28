@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897769919483",
+    "project_id": "composeapp-95435",
+    "storage_bucket": "composeapp-95435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897769919483:android:d1d66184cc9f758c11715e",
+        "android_client_info": {
+          "package_name": "com.example.composeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsyE4CU2VO1IKNEJUCtJ7qtabKW6L6fic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
